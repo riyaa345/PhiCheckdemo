@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316178588170",
+    "project_id": "phi-check-m1cuf6",
+    "storage_bucket": "phi-check-m1cuf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316178588170:android:a344929956793bafec35f3",
+        "android_client_info": {
+          "package_name": "com.flutterflow.PhiCheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRBWU_4fiqXRHmVZ4T8jwaJZym9-L7cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
